@@ -2,9 +2,9 @@
 
 Nguyen Song Thien Phuc
 
-Final-year CS student at Vietnamese-German University, working on applied LLM engineering.
+Final-year CS student at Vietnamese-German University, working on applied AI engineering.
 
-Most of what I build starts because something was tedious to do by hand — translating commentary, curating a medical reasoning dataset, tracking money across a group chat. I'm most interested in the unglamorous half of LLM work: getting data into decent shape, and building the evaluation loops that decide whether output is good enough to keep.
+Most of what I build starts because something was tedious to do by hand — translating commentary, curating a medical reasoning dataset, etc.
 
 What I'm building
 
@@ -13,7 +13,7 @@ Medical Multi-modal Reasoning Dataset Curator: A graph-based pipeline that extra
 Bible Commentary Translator (EN → VI): LoRA fine-tune of a small Qwen model, trained in two stages: general Vietnamese translation, then the commentary domain. Aligns English and Vietnamese verses to locate quoted excerpts so the output matches Vietnamese scriptural idiom instead of translating them literally. In weekly use personally. LoRA / PEFT dataset curation
 
 
-📫 nguyensongthienphuc@gmail.com · LinkedIn
+📫 nguyensongthienphuc@gmail.com
 
 <!--
 **phuclhp1922/phuclhp1922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
